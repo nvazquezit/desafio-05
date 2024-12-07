@@ -4,7 +4,7 @@
 
 ## NETLIFY LINK
 ```sh
-https://extraordinary-centaur-7b7199.netlify.app/
+https://astounding-faun-fb8704.netlify.app
 ``` 
 
 ## GITHUB LINK
