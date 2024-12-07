@@ -1,0 +1,62 @@
+:root {
+    --colordetitulos: #7e4f41;
+    --colordelinks: #d66926;
+    --fuentedetexto: Verdana, Arial, sans-serif;
+}
+
+body {
+    background-color: #ddd;
+}
+
+.imagen-head {
+    width: 100%;
+    margin: 1px;
+    box-sizing: border-box;
+    padding: auto;
+}
+
+nav {
+    display: inline;
+    font-size: 20px;
+}
+
+.link-head {
+    color: var(--colordelinks);
+    font-size: 25px;
+    font-family: Verdana, Arial, sans-serif;
+    font-weight: bold;
+    padding: 2px;
+}
+
+h1 {
+    font-family: var(--fuentedetexto);
+    color: var(--colordetitulos);
+}
+
+h2 {
+    font-family: var(--fuentedetexto);
+    background-color: var(--colordetitulos);
+    color: #eadbdb;
+}
+
+.ultimo-title {
+    color: goldenrod;
+}
+
+article {
+    font-family: var(--fuentedetexto);
+    color: var(--colordetitulos);
+}
+
+a {
+    color: var(--colordelinks);
+    font-weight: bold;
+}
+
+.link-1 {
+    color: deepskyblue;
+}
+
+.link-2 {
+    color: red;
+}
